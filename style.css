@@ -1,0 +1,14 @@
+button {
+    margin:5px;
+    padding: 10px 20px;
+    border-radius: 8px;;
+}
+
+#container{
+    margin-top:20px;
+}
+
+.rules h2{
+    margin-top: 10px;
+}
+
